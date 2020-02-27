@@ -4,6 +4,16 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
+#1900-1188 {
+  height:1188px;
+  width:1900px;
+}
+
+.OtherPics {
+  height:500px;
+  width:700px;
+}
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
